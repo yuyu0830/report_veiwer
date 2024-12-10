@@ -10,8 +10,8 @@ webdriver_options = webdriver.ChromeOptions()
 webdriver_options .add_argument('headless')
 
 #변수 설정
-ID = '20210472'
-PWD = 'bloger1541'
+ID = ''
+PWD = ''
 
 #코드 내 사용 변수 설정
 headless = 1  #0 화면 있음, 1 화면 없음
