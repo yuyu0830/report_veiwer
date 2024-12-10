@@ -7,8 +7,8 @@ def html_reset():
     return bs(html, 'html.parser')
 
 #ID, 비밀번호 입력
-ID = '20210472'
-PWD = 'bloger1541'
+ID = ''
+PWD = ''
 
 #변수 선언
 count = 0
