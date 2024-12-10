@@ -3,7 +3,7 @@ from selenium import webdriver
 
 driver_location = '' #드라이버 위치
 #\ 대신 /(슬래시), C:\User\~~~ 일 경우 /User/~~ 부터
-#예시 ) /Users/yuyu0/Downloads/chromedriver
+#예시 ) /Users/UserName/Downloads/chromedriver
 
 #화면 없이 코드
 webdriver_options = webdriver.ChromeOptions()
