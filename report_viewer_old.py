@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 
-driver_location = '/Users/yuyu0/Downloads/chromedriver' #드라이버 위치
+driver_location = '' #드라이버 위치
 #\ 대신 /(슬래시), C:\User\~~~ 일 경우 /User/~~ 부터
 #예시 ) /Users/yuyu0/Downloads/chromedriver
 
